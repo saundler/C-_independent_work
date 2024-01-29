@@ -1,0 +1,15 @@
+C:\Coding_Projects\Contests\Contest8\D\bin\Debug\net6.0\D.exe
+C:\Coding_Projects\Contests\Contest8\D\bin\Debug\net6.0\D.deps.json
+C:\Coding_Projects\Contests\Contest8\D\bin\Debug\net6.0\D.runtimeconfig.json
+C:\Coding_Projects\Contests\Contest8\D\bin\Debug\net6.0\D.dll
+C:\Coding_Projects\Contests\Contest8\D\bin\Debug\net6.0\D.pdb
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.csproj.AssemblyReference.cache
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.AssemblyInfoInputs.cache
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.AssemblyInfo.cs
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.dll
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\refint\D.dll
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.pdb
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\D.genruntimeconfig.cache
+C:\Coding_Projects\Contests\Contest8\D\obj\Debug\net6.0\ref\D.dll

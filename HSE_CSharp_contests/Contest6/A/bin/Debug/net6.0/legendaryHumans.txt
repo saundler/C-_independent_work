@@ -1,0 +1,3 @@
+Wizard	Sir Giles Daubeney	250	22	Adept
+Knight	John de Hausted	290	38  
+Knight	William Atte Wode	280	65	sword, shield

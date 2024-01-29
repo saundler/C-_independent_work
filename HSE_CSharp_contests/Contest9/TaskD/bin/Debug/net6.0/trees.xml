@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Tree xsi:type="Ash">
+		<height>24</height>
+		<age>100</age>
+		<leafCount>15117</leafCount>
+	</Tree>
+	<Tree xsi:type="Oak">
+		<height>24</height>
+		<age>110</age>
+		<acornCount>1200</acornCount>
+	</Tree>
+	<Tree xsi:type="Ash">
+		<height>23</height>
+		<age>47</age>
+		<leafCount>12693</leafCount>
+	</Tree>
+</ArrayOfTree>

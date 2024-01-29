@@ -1,0 +1,5 @@
+C:\Coding_Projects\Musor\Contest9\TaskA\obj\Debug\net6.0\TaskA.csproj.AssemblyReference.cache
+C:\Coding_Projects\Musor\Contest9\TaskA\obj\Debug\net6.0\TaskA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Musor\Contest9\TaskA\obj\Debug\net6.0\TaskA.AssemblyInfoInputs.cache
+C:\Coding_Projects\Musor\Contest9\TaskA\obj\Debug\net6.0\TaskA.AssemblyInfo.cs
+C:\Coding_Projects\Musor\Contest9\TaskA\obj\Debug\net6.0\TaskA.csproj.CoreCompileInputs.cache

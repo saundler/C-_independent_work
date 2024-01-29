@@ -1,0 +1,15 @@
+C:\Coding_Projects\Contest4\H\bin\Debug\net6.0\H.exe
+C:\Coding_Projects\Contest4\H\bin\Debug\net6.0\H.deps.json
+C:\Coding_Projects\Contest4\H\bin\Debug\net6.0\H.runtimeconfig.json
+C:\Coding_Projects\Contest4\H\bin\Debug\net6.0\H.dll
+C:\Coding_Projects\Contest4\H\bin\Debug\net6.0\H.pdb
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.csproj.AssemblyReference.cache
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.AssemblyInfoInputs.cache
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.AssemblyInfo.cs
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.dll
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\refint\H.dll
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.pdb
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\H.genruntimeconfig.cache
+C:\Coding_Projects\Contest4\H\obj\Debug\net6.0\ref\H.dll

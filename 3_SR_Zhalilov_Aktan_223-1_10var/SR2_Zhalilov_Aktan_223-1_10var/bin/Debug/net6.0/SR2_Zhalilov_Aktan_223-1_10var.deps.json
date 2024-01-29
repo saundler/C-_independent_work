@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SR2_Zhalilov_Aktan_223-1_10var/1.0.0": {
+        "runtime": {
+          "SR2_Zhalilov_Aktan_223-1_10var.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SR2_Zhalilov_Aktan_223-1_10var/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

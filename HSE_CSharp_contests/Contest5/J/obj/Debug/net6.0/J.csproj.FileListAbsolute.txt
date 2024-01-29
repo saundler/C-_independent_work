@@ -1,0 +1,15 @@
+C:\Coding_Projects\Contest5\J\bin\Debug\net6.0\J.exe
+C:\Coding_Projects\Contest5\J\bin\Debug\net6.0\J.deps.json
+C:\Coding_Projects\Contest5\J\bin\Debug\net6.0\J.runtimeconfig.json
+C:\Coding_Projects\Contest5\J\bin\Debug\net6.0\J.dll
+C:\Coding_Projects\Contest5\J\bin\Debug\net6.0\J.pdb
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.csproj.AssemblyReference.cache
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.AssemblyInfoInputs.cache
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.AssemblyInfo.cs
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.dll
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\refint\J.dll
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.pdb
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\J.genruntimeconfig.cache
+C:\Coding_Projects\Contest5\J\obj\Debug\net6.0\ref\J.dll

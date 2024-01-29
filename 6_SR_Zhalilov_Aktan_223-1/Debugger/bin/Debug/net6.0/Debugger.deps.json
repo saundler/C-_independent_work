@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Debugger/1.0.0": {
+        "dependencies": {
+          "DataLibrary": "1.0.0",
+          "NewVariant": "1.0.0"
+        },
+        "runtime": {
+          "Debugger.dll": {}
+        }
+      },
+      "DataLibrary/1.0.0": {
+        "dependencies": {
+          "NewVariant": "1.0.0"
+        },
+        "runtime": {
+          "DataLibrary.dll": {}
+        }
+      },
+      "NewVariant/1.0.0": {
+        "runtime": {
+          "NewVariant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Debugger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewVariant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

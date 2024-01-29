@@ -1,0 +1,11 @@
+Apartment Name1 10 0.1 10 10000
+CountryHouse Name1 5 0.1 10 6
+Apartment Name2 10 0.1 10 5
+CountryHouse Name2 10 0.1 10 12
+Apartment Name3 10 0.1 10 78
+CountryHouse Name3 7 0.2 10 2
+Apartment Name4 10 0.4 10 8
+CountryHouse Name4 76 0.1 10 66
+-----
+N = 0.1
+M = 0.2

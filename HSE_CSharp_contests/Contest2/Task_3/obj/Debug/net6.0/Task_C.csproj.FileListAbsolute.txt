@@ -1,0 +1,15 @@
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\bin\Debug\net6.0\Task_C.exe
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\bin\Debug\net6.0\Task_C.deps.json
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\bin\Debug\net6.0\Task_C.runtimeconfig.json
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\bin\Debug\net6.0\Task_C.dll
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\bin\Debug\net6.0\Task_C.pdb
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.csproj.AssemblyReference.cache
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.AssemblyInfoInputs.cache
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.AssemblyInfo.cs
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.dll
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\refint\Task_C.dll
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.pdb
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\Task_C.genruntimeconfig.cache
+C:\Coding_Projects\Projects\Yandex_contest_2\Task_3\obj\Debug\net6.0\ref\Task_C.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuAmoHDDFFUVVD/+MCDH4BXjzDY3n0DB/gP1QA9brcWTwQFd5M2d0cUD3qyESMvuwptB7B16YS+8+WDXg7GugQ==",
+  "success": true,
+  "projectFilePath": "C:\\Coding_Projects\\Contests\\HSE_C#\\Contest9\\TaskL\\TaskL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\aktan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

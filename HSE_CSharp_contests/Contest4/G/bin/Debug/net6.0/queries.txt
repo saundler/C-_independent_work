@@ -1,0 +1,7 @@
+open | Server Not Found error (Sputnik browser)
+open | Page not responding in Chrome on Windows 8.1
+get unresolved
+close | 2 | Try using different browser (Chrome or Firefox is ok)
+get unresolved
+close unresolved | Hello! Sad support robot answers you. He is sad because we are now unable to answer everyone on time. I would be grateful if you could clarify whether your question is still relevant.
+info | 1

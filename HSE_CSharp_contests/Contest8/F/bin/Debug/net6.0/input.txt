@@ -1,0 +1,9 @@
+Int32 Int32
+add 2
+2 23
+2 45
+contains 2
+2
+4
+remove 1
+3

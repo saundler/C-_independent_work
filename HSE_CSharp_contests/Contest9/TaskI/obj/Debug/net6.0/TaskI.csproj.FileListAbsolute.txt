@@ -1,0 +1,15 @@
+C:\Coding_Projects\Musor\Contest9\TaskI\bin\Debug\net6.0\TaskI.exe
+C:\Coding_Projects\Musor\Contest9\TaskI\bin\Debug\net6.0\TaskI.deps.json
+C:\Coding_Projects\Musor\Contest9\TaskI\bin\Debug\net6.0\TaskI.runtimeconfig.json
+C:\Coding_Projects\Musor\Contest9\TaskI\bin\Debug\net6.0\TaskI.dll
+C:\Coding_Projects\Musor\Contest9\TaskI\bin\Debug\net6.0\TaskI.pdb
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.csproj.AssemblyReference.cache
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.AssemblyInfoInputs.cache
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.AssemblyInfo.cs
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.dll
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\refint\TaskI.dll
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.pdb
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\TaskI.genruntimeconfig.cache
+C:\Coding_Projects\Musor\Contest9\TaskI\obj\Debug\net6.0\ref\TaskI.dll

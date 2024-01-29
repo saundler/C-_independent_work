@@ -1,0 +1,15 @@
+C:\Coding_Projects\Contest5\F\bin\Debug\net6.0\F.exe
+C:\Coding_Projects\Contest5\F\bin\Debug\net6.0\F.deps.json
+C:\Coding_Projects\Contest5\F\bin\Debug\net6.0\F.runtimeconfig.json
+C:\Coding_Projects\Contest5\F\bin\Debug\net6.0\F.dll
+C:\Coding_Projects\Contest5\F\bin\Debug\net6.0\F.pdb
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.csproj.AssemblyReference.cache
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.AssemblyInfoInputs.cache
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.AssemblyInfo.cs
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.csproj.CoreCompileInputs.cache
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.dll
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\refint\F.dll
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.pdb
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\F.genruntimeconfig.cache
+C:\Coding_Projects\Contest5\F\obj\Debug\net6.0\ref\F.dll

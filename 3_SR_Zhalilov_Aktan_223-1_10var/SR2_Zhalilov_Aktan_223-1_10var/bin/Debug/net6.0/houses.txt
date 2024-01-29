@@ -1,0 +1,4 @@
+CountryHouse Name1 5 0,1 10 6 0,300
+CountryHouse Name2 10 0,1 10 12 1,200
+CountryHouse Name3 7 0,2 10 2 0,280
+CountryHouse Name4 76 0,1 10 66 50,160
